@@ -30,3 +30,6 @@ Remote Keyless Entry (RKE) systems are the successors to the traditional method 
 |     |  LLR2 | All the LED's should ON in clockwise manner |
 | HLR4 | LLR1 | The system should approch lights when the user press the button four times|
 |     |  LLR2 | All the LED's should ON in anti-clockwise manner|
+
+# SWOT Analysis
+![swot](https://user-images.githubusercontent.com/47153476/157834202-808aac63-9bf8-4516-9dbf-be780dc00499.PNG)
